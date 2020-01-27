@@ -1,2 +1,3 @@
 third file contains quit important info
 don't read it bastard!!
+this line should be added to master branch too
