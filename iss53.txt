@@ -1,1 +1,1 @@
-add a new feature in our wonderful project
+replace existing line
