@@ -1,2 +1,3 @@
 hire we start work in second repo so sure we'll have soon a mess in our repo
+some bit of of precious added
 and additional info to master branch for rebase example
