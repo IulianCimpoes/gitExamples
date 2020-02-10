@@ -3,3 +3,4 @@ some bit of of precious added
 and additional info to master branch for rebase example
 c5 fix on master
 c6 fix on master
+c8 fix on client
