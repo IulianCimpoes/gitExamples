@@ -4,3 +4,4 @@ and additional info to master branch for rebase example
 c5 fix on master
 c6 fix on master
 c8 fix on client
+c9 fix on client
